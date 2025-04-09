@@ -1,0 +1,16 @@
+Thumbs.db
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.exe
+*.dll
+node_modules/
+*.mp4
+*.png
+*.psd
+*.zip
+*.exe
+node_modules/
+.DS_Store
+Thumbs.db
